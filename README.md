@@ -17,7 +17,7 @@ DOC 2: Me encanta México.
 
 DOC 3: Soy estudiante en UPIITA.
 
-El BoW de los documentos anteriores se ve a continuación:
+El BoW de los documentos anteriores se ve de la siguiente manera:
 
 | TÉRMINO | DOC 1 | DOC 2 | DOC 3 |
 |---|---|---|---|
