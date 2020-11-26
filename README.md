@@ -2,7 +2,7 @@
 
 ## Introducción
 
-**Bag of words (BoW)** es una técnica importante en el [procesamiento del lenguaje natural(https://surface.syr.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com.mx/&httpsredir=1&article=1019&context=cnlp) y en la [recuperación de información] (https://nlp.stanford.edu/IR-book/pdf/01bool.pdf). BoW utiliza vectores de frecuencia de términos para representar el contenido de documentos de texto, lo que hace posible el uso de programas matemáticos y de computadora para analizar y comparar documentos de texto.
+**Bag of words (BoW)** es una técnica importante en el [procesamiento del lenguaje natural](https://surface.syr.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com.mx/&httpsredir=1&article=1019&context=cnlp) y en la [recuperación de información](https://nlp.stanford.edu/IR-book/pdf/01bool.pdf). BoW utiliza vectores de frecuencia de términos para representar el contenido de documentos de texto, lo que hace posible el uso de programas matemáticos y de computadora para analizar y comparar documentos de texto.
 
 BoW contiene la siguiente información:
 
